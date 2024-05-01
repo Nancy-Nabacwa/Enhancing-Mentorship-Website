@@ -527,6 +527,13 @@ h4 a{
         gap: 14px;
         justify-content: space-between;
      }
+     #nyj_button{
+        border: none;
+        text-align: center;
+     }
+     .find_nyj{
+        text-align: center;
+     }
 
     
 
